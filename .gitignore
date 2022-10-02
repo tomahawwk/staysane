@@ -65,8 +65,6 @@ crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
-/[Aa]ssets/Sounds
-/[Aa]ssets/StylizedNaturePack
 /[Aa]ssets/Stylized Nature Pack
 /[Aa]ssets/EffectExamples
 
